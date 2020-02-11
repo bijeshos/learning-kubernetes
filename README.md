@@ -1,5 +1,9 @@
 # Kubernetes Examples
 
-This is a placeholder repository to keep a set of Kubernetes examples.
+This repository contains a set of Kubernetes examples.
 
-At the moment, only the skeleton version of the repo is committed. Examples would be committed soon. 
+- statefull
+    - This directory contains examples of statefull application 
+- stateless
+    - This directory contains examples of stateless application 
+
