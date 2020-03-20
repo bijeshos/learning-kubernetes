@@ -7,3 +7,4 @@ This repository contains a set of Kubernetes examples.
 - stateless
     - This directory contains examples of stateless application 
 
+** work in progress **
